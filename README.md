@@ -1,4 +1,4 @@
-See demo webpage at: https://artgarden.github.io/first-app/
+See demo webpage at: https://artgarden.github.io/first-app/ .
 At main domain: https://first-app.artgardennft.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# deploy-github
+# first-
